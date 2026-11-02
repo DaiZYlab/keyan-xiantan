@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科研闲谈</title>
+    <link>https://DaiZYlab.github.io/keyan-xiantan/</link>
+    <description>《科研闲谈》是戴智育的学术成长对谈节目：聊 PI 之路、找教职、跳槽、NIH 基金申请与实验室管理。主讲 Alex，提问 Jordan。</description>
+    <language>zh-CN</language>
+    <itunes:author>戴智育</itunes:author>
+    <itunes:summary>《科研闲谈》是戴智育的学术成长对谈节目：聊 PI 之路、找教职、跳槽、NIH 基金申请与实验室管理。主讲 Alex，提问 Jordan。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>戴智育</itunes:name>
+      <itunes:email>joeytai2010@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/show-cover.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>PI 成长之路：两年成功申请4个美国 NIH R01 的经历和经验</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae7d5cdc96c8942ec15b9e4</link>
+      <description>本期由知乎文章《PI 成长之路：两年成功申请4个美国 NIH R01 的经历和经验》改编为对谈形式。聊第二个 R01 的魔咒、两年 4 个 R01 的时间线与策略：科学、评审分流与人脉。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Mon, 02 Nov 2026 00:17:16 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/liangnian-4-r01.mp3" length="3115010" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:liangnian-4-r01</guid>
+      <itunes:duration>279</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/liangnian-4-r01.jpg" />
+    </item>
+    <item>
+      <title>PI 成长之路：以 ESI 成功申请美国 NIH R01 的经历</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae6ab5797726cd4675acec5</link>
+      <description>本期由知乎文章《PI 成长之路：以 ESI 成功申请美国 NIH R01 的经历》改编为对谈形式。聊 ESI 身份、R01 申请策略与评审：资助线、申请周期、双课题策略与 study section 选择。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Sun, 01 Nov 2026 03:03:57 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/esi.mp3" length="2106893" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:esi</guid>
+      <itunes:duration>263</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/esi.jpg" />
+    </item>
+    <item>
+      <title>PI 成长之路：北美学术界跳槽</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae5e748c96c8942ec15328f</link>
+      <description>由知乎文章《PI成长之路：北美学术界跳槽》改编为对谈形式。聊 PI 跳槽的动机与代价、时机把握、面试与谈判：职称、薪资、启动资金。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/beimei-tiaocao.mp3" length="3352973" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:beimei-tiaocao</guid>
+      <itunes:duration>419</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/beimei-tiaocao.jpg" />
+    </item>
+    <item>
+      <title>PI 独立之路：分享在美国找教职经历</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae57ad197726cd4675a7ebb</link>
+      <description>由知乎文章《PI独立之路：分享在美国找教职经历》改编为对谈形式：从申请、面试到谈判的实战经验。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/zhaojiaozhi.mp3" length="3329070" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:zhaojiaozhi</guid>
+      <itunes:duration>295</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/zhaojiaozhi.jpg" />
+    </item>
+    <item>
+      <title>PI“卓越”之路：跳槽一年，我学到的比想象中更多</title>
+      <description>由知乎文章《PI“卓越”之路：跳槽一年，我学到的比想象中更多》改编为对谈形式，聊跳槽一年后的收获。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/tiaocao-yinian.mp3" length="2185373" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:tiaocao-yinian</guid>
+      <itunes:duration>265</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/tiaocao-yinian.jpg" />
+    </item>
+    <item>
+      <title>ATS 访谈中文对谈版</title>
+      <description>ATS 访谈的中文对谈版。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/ats-interview.mp3" length="2814957" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:ats-interview</guid>
+      <itunes:duration>352</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mia Yang 访谈</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6adeea0ec96c8942ec124fd9</link>
+      <description>与华盛顿大学助理教授、MHR Early Career Innovator 奖获得者 Min Yang 的访谈对谈版。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/mia-yang.mp3" length="2057509" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:mia-yang</guid>
+      <itunes:duration>257</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>博后时间有限：如何规划与提高科研效率</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae006b8c96c8942ec12c2d8</link>
+      <description>由知乎文章《博后时间有限：如何规划与提高科研效率》改编为对谈形式。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/bohou-xiaolv.mp3" length="2170805" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:bohou-xiaolv</guid>
+      <itunes:duration>259</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>作为博后，我怎么做科研</title>
+      <description>由知乎文章《作为博后，我怎么做科研》改编为对谈形式。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Sun, 25 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/zuowei-bohou.mp3" length="2161765" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:zuowei-bohou</guid>
+      <itunes:duration>270</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>PI 独立之路：土博申请 NIH K99 的经历</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6adeb69497726cd46757a098</link>
+      <description>由知乎文章《PI独立之路：土博申请 NIH K99 的经历》改编为对谈形式：从没敢想申请，到收到 JIT、拿到 award 并晋升 Research Assistant Professor 的全过程，以及四条实操建议。主讲 Alex，提问 Jordan。</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/k99.mp3" length="1918501" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:k99</guid>
+      <itunes:duration>240</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
