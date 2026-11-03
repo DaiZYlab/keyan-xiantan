@@ -16,6 +16,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+            <title>PI成长之路：北美跳槽摊牌</title>
+            <description>由知乎文章《PI成长之路：北美跳槽摊牌》改编为对谈形式。先补跳槽的背景：动机、代价与时机；再聊拿到 offer 之后怎么摊牌：两周考虑期、counter-offer 的利弊、通知系主任的时机与早摊牌的利弊。主讲 Alex，提问 Jordan。</description>
+            <pubDate>Tue, 03 Nov 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/tiaocao-tanpai.mp3" length="2792501" type="audio/mpeg" />
+            <guid isPermaLink="false">urn:keyan-xiantan:tiaocao-tanpai</guid>
+            <itunes:duration>301</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/tiaocao-tanpai.jpg" />
+    </item>
+    <item>
       <title>PI 成长之路：两年成功申请4个美国 NIH R01 的经历和经验</title>
       <link>https://www.xiaoyuzhoufm.com/episode/6ae7d5cdc96c8942ec15b9e4</link>
       <description>本期由知乎文章《PI 成长之路：两年成功申请4个美国 NIH R01 的经历和经验》改编为对谈形式。聊第二个 R01 的魔咒、两年 4 个 R01 的时间线与策略：科学、评审分流与人脉。主讲 Alex，提问 Jordan。</description>
