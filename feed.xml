@@ -27,6 +27,17 @@
       <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/startup-tanpan-spoken.jpg" />
     </item>
     <item>
+      <title>《PI 成长之路：回望来路》</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6af866cb3caef3b52f55b15e</link>
+      <description>这期合了 Dr Dai 的两篇文章，一篇讲博后之路的反向复盘，一篇讲从实验室到终身教授。从选博后实验室的信息差、小实验室的生存训练，到高效科研的四个维度，再到从国内读博、芝加哥博后、2019 年在亚利桑那组建实验室一路走到 tenure 副教授，聊聊回望来路时，那些坑是怎么变成路标的。</description>
+      <pubDate>Sat, 14 Nov 2026 13:50:21 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/huiwang-lailu.mp3" length="5150796" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:huiwang-lailu</guid>
+      <itunes:duration>322</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/huiwang-lailu.jpg" />
+    </item>
+    <item>
       <title>PI 成长之路：从被带到带人</title>
       <link>https://www.xiaoyuzhoufm.com/episode/6af67a853caef3b52f5505d7</link>
       <description>由知乎文章《PI“卓越”之路：从Early Career到别人的导师》与《PI 初始之路，Mentorship 和经验教训》改编为对谈形式。聊从 Early Career 到别人的导师的身份转变：合作邀请、做联合导师；再讲博后时期的挫败与转向肺高压、帮受移民身份限制的成员，以及基金申请创新和实验室管理的教训。主讲 Alex，提问 Jordan。</description>
@@ -166,6 +177,17 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>从实验室到终身教授：北美华裔医药科学家的真实科研人生</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ae00f41c96c8942ec12c97c</link>
+      <description>【转载说明】本期为转载内容：这是戴智育作为嘉宾接受采访的一期往期访谈，原节目为北美金事角第262期，主持人为Brenda，原发布于2025-11-18，现转载至《科研闲谈》与听众分享。原节目链接：https://www.xiaoyuzhoufm.com/episode/691c00afdafd0d8b9a29d05b</description>
+      <pubDate>Tue, 27 Oct 2026 02:55:24 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/jinshijiao.m4a" length="22509197" type="audio/x-m4a" />
+      <guid isPermaLink="false">urn:keyan-xiantan:jinshijiao</guid>
+      <itunes:duration>2754</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/show-cover.jpg" />
+    </item>
+    <item>
       <title>Mia Yang 访谈</title>
       <link>https://www.xiaoyuzhoufm.com/episode/6adeea0ec96c8942ec124fd9</link>
       <description>与华盛顿大学助理教授、MHR Early Career Innovator 奖获得者 Min Yang 的访谈对谈版。主讲 Alex，提问 Jordan。</description>
@@ -203,6 +225,25 @@
       <guid isPermaLink="false">urn:keyan-xiantan:k99</guid>
       <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>NIH基金申请大变革：2026年新版Biosketch怎么写？</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ad44887641ef406308d4cfa</link>
+      <description>2026年，NIH Biosketch与SciENcv迎来重要变化。本期以一男一女双人对谈的形式，梳理新版要求、Personal Statement与Contributions to Science的写作思路，以及申请人最容易忽略的技术细节。
+本期内容：
+• 新版Biographical Sketch Common Form与NIH Biosketch Supplement
+• Personal Statement如何回答“为什么你适合完成这个项目”
+• F32、K99等Training Award为何需要合理呈现训练缺口
+• Contributions to Science如何体现申请人本人的贡献
+• 代表性成果应优先考虑相关性还是影响因子
+• SciENcv、ORCID、eRA Commons与Certification常见注意事项
+关键词：NIH、SciENcv、Biosketch、ORCID、F32、K99、Grant Writing</description>
+      <pubDate>Sun, 18 Oct 2026 04:51:36 GMT</pubDate>
+      <enclosure url="https://DaiZYlab.github.io/keyan-xiantan/biosketch.mp3" length="8854747" type="audio/mpeg" />
+      <guid isPermaLink="false">urn:keyan-xiantan:biosketch</guid>
+      <itunes:duration>553</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://DaiZYlab.github.io/keyan-xiantan/biosketch.jpg" />
     </item>
   </channel>
 </rss>
